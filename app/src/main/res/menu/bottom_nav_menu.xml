@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="HOME"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/membership"
+        android:title="MEMBERSHIP"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/hall_of_fame"
+        android:title="HALL OF FAME"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/games"
+        android:title="GAMES"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/merchandises"
+        android:title="MERCHANDISES"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/scratch"
+        android:title="SCRATCH  &amp; WIN"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/challenges"
+        android:title="CHALLENGES"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/edesk"
+        android:title="EDESK"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/food"
+        android:title="FOOD"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/contact"
+        android:title="Contact Us"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
